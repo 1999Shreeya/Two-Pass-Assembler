@@ -17,7 +17,7 @@ Assemblers typically make two or more passes through a source program in order t
  -------------------------------------------------------------------------------------------------------------------------------
  
  This code is written in C++ to implement a two pass assembler.
- Instructions to run this program ::
+ Instructions to run this program -
      
     Pass-1:
         1.Extract everything to single folder.
