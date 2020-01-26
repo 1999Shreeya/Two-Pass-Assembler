@@ -18,14 +18,17 @@ Assemblers typically make two or more passes through a source program in order t
  
  This code is written in C++ to implement a two pass assembler.
  Instructions to run this program ::
-     Pass-1: 
-         1.Extract everything to single folder.
-         2.Run the pass-I.cpp file.
-         3.Output is generated as IntermediateCode.txt
-     Pass-2:
-         1.Extract everything to single folder.
-         2.Run the pass-II.cpp file.
-         3.Output is generated as MachineCode.txt
+     
+    Pass-1:
+        1.Extract everything to single folder.
+        2.Run the pass-I.cpp file.
+        3.Output is generated as IntermediateCode.txt
+    Pass-2:
+        1.Extract everything to single folder.
+        2.Run the pass-II.cpp file.
+        3.Output is generated as MachineCode.txt
+         
+ 
 
 -------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------
